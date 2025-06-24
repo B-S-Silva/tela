@@ -6,7 +6,7 @@ package com.mycompany.mavenproject5;
 
 /**
  *
- * @author Kevin
+ * @author Bruno
  */
 public class NewJPanel extends javax.swing.JPanel {
 
